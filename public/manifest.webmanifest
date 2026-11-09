@@ -1,0 +1,12 @@
+{
+  "name": "DROP BSB — Nike, Lacoste & Streetwear",
+  "short_name": "DROP BSB",
+  "description": "DROP BSB — loja multimarcas de streetwear com Nike, Lacoste e novidades selecionadas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b0d",
+  "theme_color": "#0b0b0d",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
